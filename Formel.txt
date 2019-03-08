@@ -1,0 +1,7 @@
+Eine simple Formel:
+x = 2
+y = 3
+z = 1
+
+Ergebnis
+  2*x + 2*y + 2*Z + 1 = 13
