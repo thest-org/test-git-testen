@@ -1,7 +1,7 @@
 Eine simple Formel:
 x = 3
 y = 3
-z = 1
+z = 2
 
 Ergebnis
   2*x + 2*y + 2*Z + 1 = 15
